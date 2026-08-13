@@ -18,21 +18,13 @@ inventory valuation, and financial reporting that has to actually reconcile.
 
 ---
 
-## 📫 Get in touch
-
-| | |
-|---|---|
-| **Telegram** | [@nurbek1892](https://t.me/nurbek1892) |
-| **Email** | nurbekamrullayev445@gmail.com |
-
-Open to Odoo implementation, customization and integration work.
-
----
-
 ## Certification
 
-**Odoo 18 Functional Certification** — issued by Odoo S.A., 2025
-Certificate n° 0000675982 · [view certificate](assets/odoo-18-functional-certification.pdf)
+<img src="assets/odoo-18-functional-certification.png" alt="Odoo 18 Functional Certification — Nurbek Amrulloyev" width="620">
+
+Issued by Odoo S.A. · Certificate n° 0000675982 · [original PDF](assets/odoo-18-functional-certification.pdf)
+
+Open to Odoo implementation, customization and integration work.
 
 ---
 
@@ -124,19 +116,13 @@ qurmoqdaman. Asosan biznes jarayoni murakkab bo'lgan joylarda ishlayman: sex
 ishlab chiqarishi, ombor baholash (valuation) va haqiqatan ham to'g'ri
 yig'iladigan moliyaviy hisobotlar.
 
-### 📫 Aloqa
-
-| | |
-|---|---|
-| **Telegram** | [@nurbek1892](https://t.me/nurbek1892) |
-| **Email** | nurbekamrullayev445@gmail.com |
-
-Odoo joriy qilish, moslashtirish va integratsiya ishlariga ochiqman.
-
 ### Sertifikat
 
-**Odoo 18 Functional Certification** — Odoo S.A., 2025
-Sertifikat n° 0000675982 · [ko'rish](assets/odoo-18-functional-certification.pdf)
+<img src="assets/odoo-18-functional-certification.png" alt="Odoo 18 Functional Certification — Nurbek Amrulloyev" width="620">
+
+Odoo S.A. tomonidan berilgan · Sertifikat n° 0000675982 · [asl PDF](assets/odoo-18-functional-certification.pdf)
+
+Odoo joriy qilish, moslashtirish va integratsiya ishlariga ochiqman.
 
 ### Texnologiyalar
 
