@@ -1,8 +1,11 @@
 # Nurbek Amrulloyev
 
 **Odoo Developer** · Uzbekistan
+🎓 **Odoo 18 Functional Certification** — Odoo S.A.
 
-I build ERP systems on Odoo — manufacturing, accounting and multi-tenant SaaS.
+I build and deploy ERP systems on Odoo. I've delivered **Odoo Enterprise
+implementations for several client companies** — manufacturing, trading and
+services — and I'm currently building a multi-tenant ERP SaaS product.
 Most of my work sits where the business process is messy: shop-floor production,
 inventory valuation, and financial reporting that has to actually reconcile.
 
@@ -15,6 +18,24 @@ inventory valuation, and financial reporting that has to actually reconcile.
 
 ---
 
+## 📫 Get in touch
+
+| | |
+|---|---|
+| **Telegram** | [@nurbek1892](https://t.me/nurbek1892) |
+| **Email** | nurbekamrullayev445@gmail.com |
+
+Open to Odoo implementation, customization and integration work.
+
+---
+
+## Certification
+
+**Odoo 18 Functional Certification** — issued by Odoo S.A., 2025
+Certificate n° 0000675982 · [view certificate](assets/odoo-18-functional-certification.pdf)
+
+---
+
 ## What I work on
 
 **Odoo** 17 / 18 / 19 — Community and Enterprise · Python · PostgreSQL · OWL (Odoo's frontend framework) · XML/QWeb reports
@@ -23,6 +44,23 @@ inventory valuation, and financial reporting that has to actually reconcile.
 ---
 
 ## Selected work
+
+### Odoo Enterprise implementations
+
+Deployed and customized Odoo Enterprise for several client companies across
+manufacturing, trading and services. Typical scope:
+
+- **Inventory valuation & accounting integrity** — FIFO cost layers reconciled
+  against the general ledger, landed-cost corrections, and audit tools that show
+  *which documents* caused a discrepancy before any fix is applied.
+- **Analytic accounting** — automatic category / investor / holding dimensions
+  across sales, purchases, treasury and payments, plus wizards that repair
+  historical data without touching the GL.
+- **Multi-company flows** — intercompany sales and purchases, branch-level
+  stock, and per-company access rules.
+- **Telegram integrations** — order confirmations, debt and reconciliation
+  reports as Excel, payment-due reminders, and multi-account authentication.
+- **Mobile REST APIs** for field-agent applications.
 
 ### Mebelerp — multi-tenant ERP/CRM SaaS for furniture manufacturing
 
@@ -54,19 +92,11 @@ costing, quality checkpoints, employee PIN login, an OWL shop-floor client,
 manufacturing reports, and a work-centre load view. Several defects present in the
 original implementation were fixed along the way.
 
-### Client ERP implementations
+---
 
-Multi-company Odoo deployments for trading and manufacturing businesses:
+## Education
 
-- **Inventory valuation & accounting integrity** — FIFO cost layers reconciled
-  against the general ledger, landed-cost corrections, and audit tools that show
-  *which documents* caused a discrepancy before any fix is applied.
-- **Analytic accounting** — automatic category / investor / holding dimensions
-  across sales, purchases, treasury and payments, plus wizards that repair
-  historical data without touching the GL.
-- **Telegram integrations** — order confirmations, debt and reconciliation
-  reports as Excel, payment-due reminders, and multi-account authentication.
-- **Mobile REST APIs** for field-agent applications.
+**Japan Digital University** — currently studying
 
 ---
 
@@ -75,13 +105,6 @@ Multi-company Odoo deployments for trading and manufacturing businesses:
 Accounting in depth — from double-entry fundamentals through IFRS (IAS 2, IAS 21,
 IFRS 15) to Uzbekistan's national standards (NSBU) — because ERP code that touches
 the ledger should be written by someone who understands the ledger.
-Also picking up FastAPI and SQL on the side.
-
----
-
-## Contact
-
-- Email — nurbekamrullayev445@gmail.com
 
 ---
 
@@ -92,10 +115,28 @@ Also picking up FastAPI and SQL on the side.
 
 ## Nurbek Amrulloyev — Odoo dasturchi
 
-Odoo asosida ERP tizimlarini quraman: ishlab chiqarish, buxgalteriya va
-ko'p-ijarachili (multi-tenant) SaaS. Asosan biznes jarayoni murakkab bo'lgan
-joylarda ishlayman — sex ishlab chiqarishi, ombor baholash (valuation) va
-haqiqatan ham to'g'ri yig'iladigan moliyaviy hisobotlar.
+🎓 **Odoo 18 Functional Certification** — Odoo S.A.
+
+Odoo asosida ERP tizimlarini quraman va joriy qilaman. **Bir necha mijoz
+kompaniyalarga Odoo Enterprise'ni joriy qilganman** — ishlab chiqarish, savdo va
+xizmat sohalarida — hozir esa ko'p-ijarachili (multi-tenant) ERP SaaS mahsulotini
+qurmoqdaman. Asosan biznes jarayoni murakkab bo'lgan joylarda ishlayman: sex
+ishlab chiqarishi, ombor baholash (valuation) va haqiqatan ham to'g'ri
+yig'iladigan moliyaviy hisobotlar.
+
+### 📫 Aloqa
+
+| | |
+|---|---|
+| **Telegram** | [@nurbek1892](https://t.me/nurbek1892) |
+| **Email** | nurbekamrullayev445@gmail.com |
+
+Odoo joriy qilish, moslashtirish va integratsiya ishlariga ochiqman.
+
+### Sertifikat
+
+**Odoo 18 Functional Certification** — Odoo S.A., 2025
+Sertifikat n° 0000675982 · [ko'rish](assets/odoo-18-functional-certification.pdf)
 
 ### Texnologiyalar
 
@@ -103,6 +144,24 @@ haqiqatan ham to'g'ri yig'iladigan moliyaviy hisobotlar.
 **Qo'shimcha** — Django · FastAPI · Docker & Compose · Nginx · Telegram Bot API · REST va MCP serverlar
 
 ### Asosiy ishlarim
+
+#### Odoo Enterprise joriy qilish
+
+Ishlab chiqarish, savdo va xizmat sohasidagi bir necha mijoz kompaniyalarga Odoo
+Enterprise joriy qilingan va moslashtirilgan. Odatdagi ish hajmi:
+
+- **Ombor baholash va hisob yaxlitligi** — FIFO tannarx qatlamlarini bosh
+  kitob (GL) bilan solishtirish, landed cost tuzatishlari, hamda tuzatishdan
+  oldin *qaysi hujjat* farqni keltirganini ko'rsatuvchi audit vositalari.
+- **Analitik hisob** — sotuv, xarid, kassa va to'lovlar bo'ylab
+  kategoriya / investor / holding o'lchovlarini avtomatik yozish, hamda GL'ga
+  tegmasdan tarixiy ma'lumotni tuzatuvchi sehrgarlar.
+- **Ko'p-kompaniyali oqimlar** — kompaniyalararo sotuv va xarid, filial
+  darajasidagi ombor, har kompaniya uchun kirish huquqlari.
+- **Telegram integratsiyalari** — buyurtma tasdig'i, qarz va akt-sverka
+  hisobotlari Excel ko'rinishida, to'lov muddati eslatmalari, ko'p-akkaunt
+  autentifikatsiya.
+- **Mobil REST API'lar** — dala xodimlari ilovalari uchun.
 
 #### Mebelerp — mebel ishlab chiqarish uchun ko'p-ijarachili ERP/CRM SaaS
 
@@ -137,30 +196,14 @@ ish buyrug'i tannarxi, sifat nazorati, xodim PIN kirishi, OWL shop-floor
 mijozi, ishlab chiqarish hisobotlari va ish markazi yuklamasi. Jarayonda asl
 implementatsiyadagi bir nechta nuqson ham tuzatildi.
 
-#### Mijoz ERP loyihalari
+### Ta'lim
 
-Savdo va ishlab chiqarish korxonalari uchun ko'p-kompaniyali Odoo yechimlari:
-
-- **Ombor baholash va hisob yaxlitligi** — FIFO tannarx qatlamlarini bosh
-  kitob (GL) bilan solishtirish, landed cost tuzatishlari, hamda tuzatishdan
-  oldin *qaysi hujjat* farqni keltirganini ko'rsatuvchi audit vositalari.
-- **Analitik hisob** — sotuv, xarid, kassa va to'lovlar bo'ylab
-  kategoriya / investor / holding o'lchovlarini avtomatik yozish, hamda GL'ga
-  tegmasdan tarixiy ma'lumotni tuzatuvchi sehrgarlar.
-- **Telegram integratsiyalari** — buyurtma tasdig'i, qarz va akt-sverka
-  hisobotlari Excel ko'rinishida, to'lov muddati eslatmalari, ko'p-akkaunt
-  autentifikatsiya.
-- **Mobil REST API'lar** — dala xodimlari ilovalari uchun.
+**Japan Digital University** — hozir o'qiyapman
 
 ### Hozir o'rganayotganim
 
 Buxgalteriyani chuqur o'rganyapman — ikkiyoqlama yozuv asoslaridan IFRS
 (IAS 2, IAS 21, IFRS 15) va NSBU'gacha. Sababi oddiy: bosh kitobga tegadigan
-ERP kodini bosh kitobni tushunadigan odam yozishi kerak. Yon tomondan FastAPI
-va SQL ham.
-
-### Aloqa
-
-- Email — nurbekamrullayev445@gmail.com
+ERP kodini bosh kitobni tushunadigan odam yozishi kerak.
 
 </details>
